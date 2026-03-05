@@ -1,10 +1,6 @@
 # JSON Refiner Advanced Edition
 
-<p align="center">
-<a href="https://colab.research.google.com/github/yourusername/json-refiner-advanced/blob/main/json_refiner.ipynb">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-</p>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abishavid-coder/html-quick-styler-ai/blob/main/html_quick_styler.ipynb)
 
 JSON Refiner Advanced Edition is an intelligent JSON processing platform built using **Python** and **Gradio**.
 The tool converts raw key-value text into clean, structured, and production-ready JSON data through an interactive web interface.
